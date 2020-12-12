@@ -3,7 +3,7 @@
 [LinkedIn](https://www.linkedin.com/in/nicolejedinak/) / Phone: 917-214-8290
 
 ## Summary
-#### Creative Manager skilled in streamlining delivery on time and under budget. Expertise in coordinating diverse international teams and resources. Organized and detail-oriented with a kind and proactive nature. 
+Creative Manager skilled in streamlining delivery on time and under budget. Expertise in coordinating diverse international teams and resources. Organized and detail-oriented with a kind and proactive nature. 
 
 
 ## Experience
@@ -26,11 +26,11 @@
 
 ## Education
 * University of California San Diego, via Coursera
-  * Interaction Design Specialization
+  * Interaction Design Specialization (in progress)
 * Université François-Rabelais de Tours (now University of Tours), Tours, France
   * History of Art and Architecture
 * Bucknell University, Lewisburg, PA
-  * _Bachelor of Arts_, English and French 
+  * Bachelor of Arts, English and French. Art minor 
 
 ## Recent Publications, Managing Editor
 [_Richard Prince: Cowboy_, Edited by Robert M. Rubin. New York: Prestel, 2019.](https://prestelpublishing.randomhouse.de/paperback/Richard-Prince/Robert-Rubin/Prestel-com/e571979.rhd)
