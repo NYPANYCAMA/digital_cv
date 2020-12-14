@@ -16,7 +16,7 @@ Creative Project Manager skilled in streamlining deliverables on time and under 
 
 #### _Gagosian Gallery: Publications and Advertising Manager_  |  2005–2012
 * Supervised 4 full-time assistants and several seasonal interns in research, requesting text and artwork reproduction rights, exhibition signage, bulk catalog sales, and publications/stationary storage management and distribution.
-* Conceived of design and created content, rigorous schedule, functionality, and QA of [quarterly tablet app](https://youtu.be/VB278S5egwk) using HTML, CSS, and Final Cut Pro, incollaboration with development team at RadicalMedia.
+* Conceived of design and created content, deadlines and release schedule, and functionality of [quarterly tablet app](https://youtu.be/VB278S5egwk) using MS Office, Adobe CS, HTML, CSS, and Final Cut Pro, while conducting research, prototyping, QA testing, and cross-discipline collaboration with development team at RadicalMedia. 
 * Directed overall publication design, content, and production materials in collaboration with the publications director, artists Sally Mann, Richard Prince, Ed Ruscha, and Richard Serra, among others, as well as the Estates of Alexander Calder, Henry Moore, and David Smith.
 * Executed highly visible global advertising and media spend exceeding $1MM annually including the production of weekly and monthly magazine, newspaper, digital and new media campaigns.
 * Maintained cross-platform consistency in the mobile, digital, and social media presence for featured exhibitions and select e-commerce, communicating with the owner and international directors. 
